@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\alejg\Desktop\JavaClaseCalculadora\.metadata\.plugins\org.eclipse.jdt.core
+1920360576.index
+3911951890.index
+1865797976.index
